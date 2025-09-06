@@ -32,6 +32,7 @@ Practice problems using a combination of if statements, loops, and arrays in Jav
 - Compile and run a Java file:
 
 javac FileName.java
+
 java FileName
 
 🛠️ Tools & Requirements
