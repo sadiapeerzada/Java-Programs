@@ -24,10 +24,9 @@ Practice problems using a combination of if statements, loops, and arrays in Jav
 
 ---
 
-**How to Run the Programs:**
+🚀**How to Run the Programs:**
 
-1. Clone this repository:
-- git clone https://github.com/sadiapeerzada/java-program.git
+1. Clone this repository: [Java Programming](https://github.com/sadiapeerzada/java-program.git)
 - Navigate to the folder of the week you want to explore.
 - Compile and run a Java file:
 
