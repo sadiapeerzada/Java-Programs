@@ -22,6 +22,12 @@ Problems related to array creation, traversal, manipulation, and basic algorithm
 + Week 6 – Combined Concepts
 Practice problems using a combination of if statements, loops, and arrays in Java.
 
++ Week 7 – Combined Concepts
+Problems based on if statement, looping, arrays, strings in Java.
+
++ Week 8 – Combined Concepts
+Problems based on object, class, constructor in Java.
+
 ---
 
 🚀**How to Run the Programs:**
