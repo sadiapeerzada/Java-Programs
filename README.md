@@ -71,7 +71,7 @@ It documents my weekly progress and practice programs in Java, organized to grad
    javac FileName.java
    java FileName
 
-##🛠 Tools & Requirements
+## 🛠 Tools & Requirements
 
 + JDK 8 or above
 
